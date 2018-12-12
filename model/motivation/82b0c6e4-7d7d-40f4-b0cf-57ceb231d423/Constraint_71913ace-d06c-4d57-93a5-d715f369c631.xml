@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.2.3 Ensure each verb represents a single operation on a given resource and avoid using request parameters to pass additional operations. However, the following are appropriate uses of HyperText Transfer Protocol (HTTP) verbs in the context of a REST"
+    id="71913ace-d06c-4d57-93a5-d715f369c631"/>

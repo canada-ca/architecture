@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.6.3 Support official languages whereby all English or French content returned as data are to be nested with BCP-47 language codes used as keys, specifically &quot;en&quot; and &quot;fr&quot;. External facing APIs must reply with content in the requested language if the"
+    id="13f776dd-cb00-44bf-86ec-fd803f35dbeb"/>

@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.5.1 Enforce secure communications by ensuring that sensitive data is never sent over an insecure or unencrypted connection, and where possible non-sensitive data should also be sent over a secure connection. Enable TLS 1.2 or subsequent versions, in"
+    id="76520c50-be63-4d60-a734-5a2eca255471"/>

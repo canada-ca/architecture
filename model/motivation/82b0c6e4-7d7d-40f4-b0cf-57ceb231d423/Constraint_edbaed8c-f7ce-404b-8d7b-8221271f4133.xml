@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.10.2 Use OpenAPI, a machine-readable interface specification for RESTful APIs, to document RESTful API contracts. There are open source tools (e.g., Swagger) which can then generate human-readable documentation from this specification which avoids t"
+    id="edbaed8c-f7ce-404b-8d7b-8221271f4133"/>

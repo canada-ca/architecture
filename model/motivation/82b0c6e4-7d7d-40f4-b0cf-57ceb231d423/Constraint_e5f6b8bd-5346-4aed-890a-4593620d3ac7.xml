@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.3.7 Ensuring the interaction between the API consumer and provider is stateless. APIs must not expect any concept of session or management of state on the part of the consumer (e.g., passing session IDs). Any interactions where multiple APIs are cal"
+    id="e5f6b8bd-5346-4aed-890a-4593620d3ac7"/>

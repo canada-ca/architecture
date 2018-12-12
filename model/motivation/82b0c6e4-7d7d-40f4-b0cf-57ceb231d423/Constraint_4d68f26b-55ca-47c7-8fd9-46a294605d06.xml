@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C.2.3.10.3 Run each IT service in its own process and have it communicate with other IT services through a well-defined interface, such as an HTTPS-based application programming interface (API) as per Appendix D: Mandatory Procedures for Application Progr"
+    id="4d68f26b-55ca-47c7-8fd9-46a294605d06"/>

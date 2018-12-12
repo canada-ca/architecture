@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.2.1 Represent resources as Uniform Resource Locators (URLs) by ensuring URLs represent entities and business objects, not operations on those entities and objects (i.e., avoid verbs inside the URL string)"
+    id="26d7459f-4ac3-4f92-8383-a66f7c6dcaf1"/>

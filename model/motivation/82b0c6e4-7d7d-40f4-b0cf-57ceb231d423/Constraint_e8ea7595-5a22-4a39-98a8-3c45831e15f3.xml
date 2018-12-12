@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.7.2 Respect existing consumer dependencies by supporting at least one previous major version (i.e., N-1) to ensure consuming systems have time to migrate to the latest version of the API. Communicate your development roadmap with consuming teams and"
+    id="e8ea7595-5a22-4a39-98a8-3c45831e15f3"/>

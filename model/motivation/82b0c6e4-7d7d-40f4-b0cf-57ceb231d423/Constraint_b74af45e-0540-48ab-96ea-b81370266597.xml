@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.2.5.3 The API Key must be passed in the header rather than the URI"
+    id="b74af45e-0540-48ab-96ea-b81370266597"/>

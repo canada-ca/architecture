@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.9.4 The ability to inject consumer defined query strings or objects into an API must be limited to open data, reporting, and statistical APIs only, and strictly prohibited on master data, transactional or business APIs. Dynamic and open queries crea"
+    id="52052d64-789f-403a-bee4-c34f36be674e"/>

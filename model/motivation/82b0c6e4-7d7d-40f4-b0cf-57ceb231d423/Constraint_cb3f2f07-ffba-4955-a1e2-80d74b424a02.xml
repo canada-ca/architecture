@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.8.1 Run performance and load tests against the API to determine the response time and throughput during reasonable load as well as identify performance thresholds beyond which the API becomes unstable. Performance tests should be integrated into the"
+    id="cb3f2f07-ffba-4955-a1e2-80d74b424a02"/>

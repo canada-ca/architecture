@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.9.5.1 Smaller datasets should be returned in low overhead formats (e.g., Comma-separated values (CSV) or JSON) rather than XML. The use of compressed file attachments should be avoided, especially when consuming external APIs as they may bypass mali"
+    id="e9baeaac-6d19-4167-b302-1727bfe16de6"/>

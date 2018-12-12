@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.3.2 Exposing raw data structures (e.g., rowsets, table arrays, LDAP DN) from backend systems must be limited to open data, reporting, and statistical APIs only, and strictly prohibited on master data, transactional, or business APIs. APIs should abs"
+    id="64e72e55-2212-4ad2-91f4-b5c3112da5c8"/>

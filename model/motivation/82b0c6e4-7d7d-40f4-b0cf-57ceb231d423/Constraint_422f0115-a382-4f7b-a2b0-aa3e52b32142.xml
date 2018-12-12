@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.2.2.1 Form responses as a JSON object and not an array. Arrays can limit the ability to include metadata about results and limit the APIs ability to add additional top-level keys in the future"
+    id="422f0115-a382-4f7b-a2b0-aa3e52b32142"/>

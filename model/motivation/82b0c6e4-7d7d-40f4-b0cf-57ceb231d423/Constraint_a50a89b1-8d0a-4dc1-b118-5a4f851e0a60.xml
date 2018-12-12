@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.8.2 Performance summaries (e.g., average response time and associated throughput, max stable throughput) should be published alongside the API contract and SLA. This should be updated on every release"
+    id="a50a89b1-8d0a-4dc1-b118-5a4f851e0a60"/>

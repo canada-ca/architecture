@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.5.6 Use gateways and proxies instead of whitelists when exposing APIs to the internet. Use a secure gateway layer to provide a security control point instead of simply whitelisting inbound Internet Protocol addresses (IPs). The API Store's gateway f"
+    id="f860a9b4-0b1e-459f-ad3d-e0652786adfa"/>

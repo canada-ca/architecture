@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.9.5 Apply special considerations for bulk datasets as there will be scenarios where APIs will need to be involved in making bulk datasets available between systems or to the public. In those scenarios, apply the following considerations"
+    id="c6e75380-b8d5-4cc5-9b0e-d56343efe4f4"/>

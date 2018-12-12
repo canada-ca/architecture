@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.3.1 Leveraging industry recognized common information models (e.g., NIEM, HR-JSON, HL7) where possible. If you have to define your own information model, create a model which is technology and platform agnostic rather than simply reusing a vendor pr"
+    id="818eb0b4-4a49-4074-a299-7baa2cfb745a"/>

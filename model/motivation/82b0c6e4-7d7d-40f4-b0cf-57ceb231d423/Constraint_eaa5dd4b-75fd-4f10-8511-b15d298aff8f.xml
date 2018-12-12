@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.6.1 Use Unicode Transformation Format-8 (UTF-8) as the standard encoding type for all text and textual representations of data through APIs. It must be adhered to for all APIs published across the GC and externally. Other encodings may be used for s"
+    id="eaa5dd4b-75fd-4f10-8511-b15d298aff8f"/>

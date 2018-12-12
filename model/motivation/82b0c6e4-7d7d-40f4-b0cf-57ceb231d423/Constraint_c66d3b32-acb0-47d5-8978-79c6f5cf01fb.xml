@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.10.5 Avoid heavy companion documents. The need for a large separate document explaining each method and attribute is usually an indication that the API is too large, generic, or complex. Consider breaking the API down into smaller components and mak"
+    id="c66d3b32-acb0-47d5-8978-79c6f5cf01fb"/>

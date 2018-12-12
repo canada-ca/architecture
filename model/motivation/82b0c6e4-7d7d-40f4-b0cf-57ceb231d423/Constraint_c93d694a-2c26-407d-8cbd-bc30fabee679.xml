@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.3.4 Ensuring the constraints of a data schema are apparent when reading the schema definition. Generic data structures such as key-value pairs and generic fields are prohibited due to the inability to test API compatibility at the contract level"
+    id="c93d694a-2c26-407d-8cbd-bc30fabee679"/>

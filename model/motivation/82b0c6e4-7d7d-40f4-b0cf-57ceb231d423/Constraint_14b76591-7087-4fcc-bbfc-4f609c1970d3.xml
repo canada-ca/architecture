@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D.2.2.5.4 Protect access to APIs by implementing an access control scheme that protects APIs from being improperly invoked, including unauthorized function and data references. Always authenticate and authorize before any operation to ensure access to API"
+    id="14b76591-7087-4fcc-bbfc-4f609c1970d3"/>
