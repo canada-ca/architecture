@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.5.3 Do not include sensitive data in request URLs as request URL strings can be tracked and compromised even with transport encryption. If a query involves sensitive data elements (e.g., SIN), pass the query parameters as a JSON message payload rath"
-    id="c7851a4b-ddec-44ac-9747-1c4fc73e9acd"/>

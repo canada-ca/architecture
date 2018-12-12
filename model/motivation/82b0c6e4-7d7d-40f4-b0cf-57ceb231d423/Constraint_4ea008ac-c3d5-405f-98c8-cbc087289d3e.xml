@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.5.2 Design APIs to be resistant to attacks by ensuring that all APIs are designed and implemented to be resistant to common API attacks such as buffer overflows and SQL injection. Treat all submitted data as untrusted and validate before processing."
-    id="4ea008ac-c3d5-405f-98c8-cbc087289d3e"/>

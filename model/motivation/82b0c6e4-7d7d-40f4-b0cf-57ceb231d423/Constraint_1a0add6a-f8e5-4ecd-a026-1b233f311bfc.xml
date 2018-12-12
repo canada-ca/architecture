@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.9.3 APIs exposing large datasets must support some form of data segmentation. The following are some common patterns for pagination along with appropriate use cases"
-    id="1a0add6a-f8e5-4ecd-a026-1b233f311bfc"/>

@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.9.1 Query-based APIs (pull pattern) are preferred over data sink APIs (push pattern). Having consuming systems query APIs based on specific parameters ensures that only data that's required in the context of a business process or transaction is bein"
-    id="2339c3b0-022d-4a2d-8ff2-2e479e944d2b"/>

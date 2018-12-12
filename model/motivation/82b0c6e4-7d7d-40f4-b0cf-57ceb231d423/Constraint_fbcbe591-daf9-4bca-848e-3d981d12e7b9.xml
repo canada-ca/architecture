@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.9.5.2 An API may be implemented as a trigger to initiate an out-of-band interface (e.g., managed file transfer) more appropriate for moving large data volumes"
-    id="fbcbe591-daf9-4bca-848e-3d981d12e7b9"/>

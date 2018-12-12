@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.2.5.6 Publish using Simple Object Access Protocol (SOAP)/Extensible Markup Language (XML) APIs only if there are technical constraints on either the provider or consumer sides. All SOAP endpoints should follow SOAP 1.2 specifications and be WS-I Bas"
-    id="1e7fd42b-3b89-4a8e-8faf-e7c20d2f25d1"/>

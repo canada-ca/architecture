@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.3.6 Abstracting internal technical details whereby responses, including error messages, should abstract technical details which the API consumer has no visibility into. Internal technical errors, thread dumps, and process identifiers etc. must all b"
-    id="2693322a-8a1a-4613-a964-a4670344d008"/>

@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.2.4 Use Uniform Resource Identifiers (URIs) to uniquely identify data that is returned as a part of a response so future operations can be performed on it, and iterations can leverage existing resources with minimal rework"
-    id="9680679c-6035-4e87-b05b-d3ef0146de94"/>

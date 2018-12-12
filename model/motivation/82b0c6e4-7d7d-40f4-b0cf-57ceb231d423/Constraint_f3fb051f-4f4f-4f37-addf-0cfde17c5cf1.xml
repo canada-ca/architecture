@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.9.2 Restrict the use of wildcard queries in APIs as they can be dangerous from a data performance perspective. If wildcard characters are allowed, ensure there are restrictions on which and how many parameters can have wildcard input to prevent larg"
-    id="f3fb051f-4f4f-4f37-addf-0cfde17c5cf1"/>

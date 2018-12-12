@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.8.4 Throttling mechanisms should be implemented to control throughput against the stated SLA to guard against unexpected spikes in activity. It is better to reject requests that exceed the pre-defined throughput limits than to let the API crash"
-    id="308769cb-c206-4099-9018-360da4db6bea"/>

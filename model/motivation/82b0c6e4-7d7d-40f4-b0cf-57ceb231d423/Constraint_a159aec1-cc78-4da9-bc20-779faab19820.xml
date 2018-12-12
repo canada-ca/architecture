@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.9.5.3 If the dataset is published on file servers already available to the consumer, an API could be implemented to return a link to a specific file based on specific request parameters"
-    id="a159aec1-cc78-4da9-bc20-779faab19820"/>

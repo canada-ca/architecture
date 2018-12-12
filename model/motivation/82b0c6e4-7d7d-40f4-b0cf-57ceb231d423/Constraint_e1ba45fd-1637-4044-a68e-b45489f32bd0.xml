@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.3.3 Avoiding relational data structures such as JSON and XML as they are hierarchical data structures and are not well suited to representing relational data. Relational data schemas should be flattened based on the perspective of the API consumer"
-    id="e1ba45fd-1637-4044-a68e-b45489f32bd0"/>

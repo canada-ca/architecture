@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.10.4 Publish unit tests and test data as the most effective way to document what an API is supposed to do alongside the API contract. This becomes easier if Test-Driven-Development (TDD) methodology was followed in the development of the API"
-    id="de3a66cc-57f4-4c69-a6d8-930d886f036e"/>

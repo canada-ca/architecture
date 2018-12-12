@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.6.2 Use consistent date-time format by International Organization for Standardization 8601 (ISO 8601), in Coordinated Universal Time (UTC), as the standard date-time format for data and timestamp fields in APIs published across the GC and externally"
-    id="66876d99-3b2d-4e9d-8515-af6c3ea46957"/>

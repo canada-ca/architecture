@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.4.2 Pilot internally first by building APIs in parallel with an internal use case which would integrate with the API and use this internal pilot to validate the API implementation before publishing it for external use"
-    id="9fbfdd0b-a859-4917-b6ca-c2e3842c1c0b"/>

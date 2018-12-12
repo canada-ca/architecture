@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.2.2.1 Avoid unpredictable (i.e., dynamic) object keys such as those derived from data as this adds friction for clients"
-    id="b00dc8a9-4b9d-4525-bedf-e7f79626d7ae"/>

@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.7.1.2 The URL must reflect only the major version (e.g., v3). Versions must not be passed as a parameter or in the request header to force the API consumer to explicitly identify the version and to avoid defaulting to an incompatible version. Minor "
-    id="7f6aa9d2-3f56-4eb5-9b00-d22a7be3865a"/>

@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.10.3 Each SOAP API must be accompanied with a Web Services Description Language (WSDL) contract. The WSDL is a machine-readable specification which allows the API consumer developer to generate the consumer code"
-    id="7c249d2a-25d9-4a9a-b848-8240608ca19e"/>

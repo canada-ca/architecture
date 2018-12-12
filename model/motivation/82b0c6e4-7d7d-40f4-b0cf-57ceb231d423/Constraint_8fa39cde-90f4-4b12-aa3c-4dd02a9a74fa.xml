@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="C.2.3.12.4 Use distributed architectures, assume failure will happen, handle errors gracefully, and monitor actively"
-    id="8fa39cde-90f4-4b12-aa3c-4dd02a9a74fa"/>

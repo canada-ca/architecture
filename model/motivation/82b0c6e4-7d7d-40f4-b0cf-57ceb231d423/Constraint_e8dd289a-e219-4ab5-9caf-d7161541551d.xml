@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="D.2.2.3.5 Avoiding building custom error codes and schemes which require heavy parsing by the consuming system. Conform to HTTP status codes when building RESTful APIs and conform to SOAP 1.2 faults when building SOAP APIs"
-    id="e8dd289a-e219-4ab5-9caf-d7161541551d"/>
