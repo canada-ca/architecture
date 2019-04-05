@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Be good data stewards"
+    id="5ab1b648-9e40-4d25-a785-8aa251d190d1"
+    documentation="Collect data from users only once and reuse wherever possible. Ensure that data is collected and held in a secure way so that it can easily be reused by others to provide services."/>
