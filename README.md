@@ -1,6 +1,26 @@
-# architecture
+# Open Government of Canada Architecture Git Repository
 
-The canada-ca/architecture repository is meant for the storage of architecture models for use within and about the Government of Canada.
+The canada-ca/architecture repository is meant for the storage of architecture models for use within and about the Government of Canada. The contents of this repository are provided without any warranty or guarentee, and does not necisarily accurately reflect the Government of Canada's current state of Enterprise Architecture management at any given moment.
+
+In line with [Open Government](https://open.canada.ca) principles, this repository supports open government. "Open Government is about making government more accessible to everyone. This means giving greater access to government data and information to the Canadian public and the businesses community.[About Open Government](https://open.canada.ca/en/about-open-government).
+
+This repository is governed using an informal, community driven governance model.
+
+## What you will find here
+
+This repository will contain elements created from open and accessible information and data sources such as:
+* Legislation
+* Acts
+* Regulations
+* Policies
+* Directives
+
+## What you wont find here
+This repository is not mean to expose non-public or protected information sources such as:
+* Internal business transformation
+* Internal departmental policies
+* personal or self-identifiable information
+* any information presenting exposing security threats or internal network topologies
 
 
 ## About Enterprise Architecture within Government of Canada
