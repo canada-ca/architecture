@@ -1,10 +1,15 @@
 # architecture
 
-The canada-ca/architecture repository is meant for the storage of architecture models for use within and about the Government of Canada
+The canada-ca/architecture repository is meant for the storage of architecture models for use within and about the Government of Canada.
 
 
 ## About Enterprise Architecture within Government of Canada
 
+Enterprise Architecture in its current form within the Government of Canada is heavily focused on the Management of IM/IT, however its principles can be found across all viewpoints of the organization within the Architecture Development Model (ADM) including Business, Information and systems, as well as technology.
+
+The [Government of Canada Strategic Plan for Information Management and Information Technology 2017 to 2021](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology/strategic-plan-2017-2021.html#toc8-2-2) states, "Sound IM-IT management starts with consistent planning based on documented descriptions of the enterprise. With an understanding of what is in play, managers can adopt solutions that best address their business needs while advancing government-wide architecture."
+
+[Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), provides guidance on how to assess Enterprise Architecture through Appendix C - Mandatory Procedures for Enterprise Architecture Assessment.
 
 ## Getting Started
 
@@ -14,7 +19,7 @@ The canada-ca/architecture repository is meant for the storage of architecture m
 * Familiarize yourself with [Gitflow](https://nvie.com/posts/a-successful-git-branching-model/)
 * Government of Canada Policies related to architecture
 
-### Install Archi MOdeling Tool
+### Install Archi Modeling Tool
 * Install [Archi Tool](https://www.archimatetool.com/)
 * Install [Archi Tool Collaboration Plugin](https://www.archimatetool.com/plugins/)
 
@@ -54,10 +59,7 @@ The canada-ca/architecture repository is meant for the storage of architecture m
   * Head repository: This is likely your forked repo
 * Consider pulling FROM your repositories MASTER branch into the base repository DEVELOPMENT or other branch
   
-
-
-
-    
+   
 ## Alternative workflow
 * Clone this project into your own repository
 * Submit Merge requests back to this project
