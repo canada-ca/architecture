@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standard"
+    id="56d5c9b7-dbdf-46be-8eb0-118021517a04"
+    documentation="A set of operational or technical measures, procedures or practices for government-wide use. Standards provide more detailed information on how managers and functional specialists are expected to conduct certain aspects of their duties.">
+  <properties
+      key="Application"
+      value="Mandatory"/>
+  <properties
+      key="Audience"
+      value="Managers, Functional Specilaists"/>
+  <properties
+      key="Policy Instrument"
+      value="Standard"/>
+  <properties
+      key="URL"
+      value="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=13616"/>
+</archimate:Meaning>

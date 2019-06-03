@@ -1,0 +1,29 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Management Accountability Framework (MAF)"
+    id="5df9f622-1260-497a-b95a-051a95df3e07">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="22113765-4132-4aa1-9fc9-8044c8338c5e">
+    <bounds
+        x="288"
+        y="132"
+        width="169"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_081ae56f-2878-4947-825c-a498abd8d76f.xml#081ae56f-2878-4947-825c-a498abd8d76f"/>
+  </children>
+  <properties
+      key="Effective Date"/>
+  <properties
+      key="Modified Date"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="URL"
+      value="https://www.canada.ca/en/treasury-board-secretariat/services/management-accountability-framework.html"/>
+  <properties
+      key="Updated Date"/>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Termium Plus"
+    id="6e8598ad-3852-45e5-8db9-69a5b7d544a2"
+    documentation="TERMIUM Plus®, one of the largest terminology and linguistic data banks in the world, gives you access to millions of terms in English, French, Spanish and Portuguese. You can find terms, abbreviations, definitions and usage examples in a wide range of specialized fields. The data bank is an essential tool for understanding an acronym, checking an official title, finding an equivalent in another language, and much more.">
+  <properties
+      key="Type"
+      value="Website"/>
+  <properties
+      key="URL"
+      value="https://www.btb.termiumplus.gc.ca"/>
+</archimate:ApplicationComponent>

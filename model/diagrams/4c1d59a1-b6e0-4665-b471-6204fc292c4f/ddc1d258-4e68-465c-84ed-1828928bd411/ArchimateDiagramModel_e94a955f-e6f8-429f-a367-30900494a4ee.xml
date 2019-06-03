@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Values and Ethics Code for the Public Sector"
+    id="e94a955f-e6f8-429f-a367-30900494a4ee">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5b9663a0-67c0-43cd-87a2-24e8374808f4">
+    <bounds
+        x="408"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_66479820-03ac-4996-b307-a97d9186ad7e.xml#66479820-03ac-4996-b307-a97d9186ad7e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="2bb72f23-87cf-4991-b468-b377c375a149">
+    <bounds
+        x="420"
+        y="144"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_0d6ad90c-743f-498d-9105-865d56058d3b.xml#0d6ad90c-743f-498d-9105-865d56058d3b"/>
+  </children>
+</archimate:ArchimateDiagramModel>

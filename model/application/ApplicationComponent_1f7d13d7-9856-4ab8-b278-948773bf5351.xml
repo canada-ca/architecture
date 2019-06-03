@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open Government"
+    id="1f7d13d7-9856-4ab8-b278-948773bf5351">
+  <properties
+      key="Type"
+      value="Website"/>
+  <properties
+      key="URL"
+      value="https://open.canada.ca"/>
+</archimate:ApplicationComponent>
