@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SSC EA Governance"
+    id="1d50af1e-ed72-4e25-afae-935627b87f2f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="cc96ad5a-e2e5-4838-b71a-25f0ba1676ec">
+    <bounds
+        x="217"
+        y="132"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_a5b9e4cd-5c06-42c8-a30e-fb5234aa2db1.xml#a5b9e4cd-5c06-42c8-a30e-fb5234aa2db1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4213b67f-af8e-401c-b039-3e6aec4e1ba9">
+    <bounds
+        x="217"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_b044baf6-c8c0-4efa-90fd-b85121777a45.xml#b044baf6-c8c0-4efa-90fd-b85121777a45"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4b8bff93-83b4-4ba5-94a7-fb1244117b7d">
+    <bounds
+        x="456"
+        y="174"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Product"
+        href="Product_5619a724-6d85-4cfb-9c13-bbb1f7601ad1.xml#5619a724-6d85-4cfb-9c13-bbb1f7601ad1"/>
+  </children>
+</archimate:ArchimateDiagramModel>
