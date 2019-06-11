@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GC EA Governance"
+    id="3f5f3aa4-8c66-445a-84c5-f3bcecd404cb">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d443e43a-b01b-48a7-8563-45f29e4b9dde">
+    <bounds
+        x="359"
+        y="125"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_86fa9d44-46c6-45d7-99c0-a7dc822b90e3.xml#86fa9d44-46c6-45d7-99c0-a7dc822b90e3"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy"
+    id="dda37b06-8d62-42bd-8222-5c196f2c72cf"
+    documentation="Formal direction that imposes specific responsibilities on departments. Policies explain what deputy heads and their officials are expected to achieve.">
+  <properties
+      key="Audience"
+      value="Ministers, Deputy Heads"/>
+  <properties
+      key="Policy Instrument"
+      value="Policy"/>
+  <properties
+      key="Application"
+      value="Mandatory"/>
+  <properties
+      key="URL"
+      value="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=13616"/>
+</archimate:Meaning>

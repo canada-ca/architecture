@@ -1,0 +1,20 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Treasury Board Policy Suite"
+    id="11ca069c-1f8e-442e-8c1e-e7d4b535d707"
+    documentation="About the TB Policy Suite&#xD;&#xA;&#xD;&#xA;The Treasury Board Policy Suite is the collection of mandatory policy instruments which contain rules for management in the federal public service. The policy instruments are approved by the Treasury Board and administered by the Treasury Board Secretariat (TBS).&#xD;&#xA;&#xD;&#xA;Treasury Board policy instruments include policies and directives that contain mandatory requirements. Each requirement tells a responsible official to undertake a specific activity or task that collectively supports the instrument’s objectives and expected results.&#xD;&#xA;&#xD;&#xA;Treasury Board policies aim to ensure that government resources are effectively managed, while demonstrating care and good judgement, and to manage significant risks to the operations of government. The policies also support public sector values, including respect for Parliament, people, integrity and stewardship, as well as other management values such as sound governance, transparency and value for money.&#xD;&#xA;&#xD;&#xA;The Treasury Board has the authority to create mandatory policies through various pieces of legislation, including:&#xD;&#xA;&#xD;&#xA;    Financial Administration Act (sections 7, 9, 10, 11)&#xD;&#xA;    Access to Information Act (section 70)&#xD;&#xA;    Canada Labour Code (section 124 and 125)&#xD;&#xA;    Public Service Employment Act (sections 26, 51, 61, 62)&#xD;&#xA;    Privacy Act (section 71)&#xD;&#xA;    Official Languages Act (section 46)&#xD;&#xA;    Surplus Crown Assets Act (section 3)&#xD;&#xA;    Federal Real Property and Federal Immovables Act (section 16)&#xD;&#xA;&#xD;&#xA;One of the key oversight tools for measuring compliance with the requirements of the policy suite is the Management Accountability Framework (MAF) which is used by TBS to monitor how federal departments are meeting expected results. For more information on the Management Accountability Framework, visit the MAF web page.">
+  <properties
+      key="Type"
+      value="Suite"/>
+  <properties
+      key="Effective Date"/>
+  <properties
+      key="Updated Date"/>
+  <properties
+      key="Modified Date"/>
+  <properties
+      key="URL"
+      value="https://www.tbs-sct.gc.ca/pol/info-eng.aspx"/>
+  <properties
+      key="XML"/>
+</archimate:Driver>

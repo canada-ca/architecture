@@ -1,0 +1,24 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Act"
+    id="d0ff771c-b692-431c-9cf6-45e939cb1dde"
+    documentation="Purpose of Act&#xD;&#xA;&#xD;&#xA;Marginal note:Purpose&#xD;&#xA;&#xD;&#xA;2 The purpose of this Act is to extend the present laws of Canada that protect the privacy of individuals with respect to personal information about themselves held by a government institution and that provide individuals with a right of access to that information.&#xD;&#xA;&#xD;&#xA;    1980-81-82-83, c. 111, Sch. II “2”">
+  <properties
+      key="Type"
+      value="Act"/>
+  <properties
+      key="Effective Date"
+      value="1985"/>
+  <properties
+      key="Parlimentary Bill"
+      value="P-21"/>
+  <properties
+      key="Updated Date"/>
+  <properties
+      key="Modified Date"/>
+  <properties
+      key="URL"
+      value="https://laws-lois.justice.gc.ca/eng/acts/P-21/"/>
+  <properties
+      key="XML"/>
+</archimate:Driver>

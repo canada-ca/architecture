@@ -1,0 +1,15 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Directive on Automated Decision-Making"
+    id="1b21604e-f947-4294-930d-67c88690d53d"
+    documentation="The Government of Canada is increasingly looking to utilize artificial intelligence to make, or assist in making, administrative decisions to improve service delivery. The Government is committed to doing so in a manner that is compatible with core administrative law principles such as transparency, accountability, legality, and procedural fairness. Understanding that this technology is changing rapidly, this Directive will continue to evolve to ensure that it remains relevant. ">
+  <properties
+      key="URL"
+      value="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592"/>
+  <properties
+      key="XML"
+      value="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592&amp;section=xml"/>
+  <properties
+      key="Type"
+      value="Directive"/>
+</archimate:Driver>

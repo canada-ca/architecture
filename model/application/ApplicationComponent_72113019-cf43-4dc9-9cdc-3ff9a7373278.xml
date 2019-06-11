@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Government of Canada Employee Directory (GCDirectory)"
+    id="72113019-cf43-4dc9-9cdc-3ff9a7373278">
+  <properties
+      key="Type"
+      value="Website"/>
+  <properties
+      key="URL"
+      value="http://gcdirectory-gcannuaire.ssc-spc.gc.ca/en/GCD/"/>
+</archimate:ApplicationComponent>

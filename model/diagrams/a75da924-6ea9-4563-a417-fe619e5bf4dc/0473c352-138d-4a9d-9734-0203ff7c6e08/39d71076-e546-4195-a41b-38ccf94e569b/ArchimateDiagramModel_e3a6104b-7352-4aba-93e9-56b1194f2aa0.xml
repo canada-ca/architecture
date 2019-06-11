@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gc.ca"
+    id="e3a6104b-7352-4aba-93e9-56b1194f2aa0">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7bfc04aa-5b83-4faa-a628-5d9fa677fd4c">
+    <bounds
+        x="216"
+        y="120"
+        width="205"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_72113019-cf43-4dc9-9cdc-3ff9a7373278.xml#72113019-cf43-4dc9-9cdc-3ff9a7373278"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9ec8ef9b-4bb1-4967-9e03-57f5a89ec22a">
+    <bounds
+        x="228"
+        y="216"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_6e8598ad-3852-45e5-8db9-69a5b7d544a2.xml#6e8598ad-3852-45e5-8db9-69a5b7d544a2"/>
+  </children>
+</archimate:ArchimateDiagramModel>

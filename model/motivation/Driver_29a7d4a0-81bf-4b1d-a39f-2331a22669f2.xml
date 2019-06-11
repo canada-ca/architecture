@@ -1,0 +1,19 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Directive on the Business Number"
+    id="29a7d4a0-81bf-4b1d-a39f-2331a22669f2"
+    documentation="Outlines the requirements for use of the Business Number as the standard identifier of businesses for all transactions between the business and the Government of Canada. ">
+  <properties
+      key="Type"
+      value="Directive"/>
+  <properties
+      key="Effective Date"/>
+  <properties
+      key="Modified Date"/>
+  <properties
+      key="Updated Date"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="XML"/>
+</archimate:Driver>

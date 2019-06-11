@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Tools"
+    id="509d7012-9e30-41d0-8810-b121e04e2d18"
+    documentation="Examples include recognized best practices, handbooks, communications products and audit products.">
+  <properties
+      key="Application"
+      value="Voluntary"/>
+  <properties
+      key="Audience"
+      value="Managers, Functional Specialists"/>
+  <properties
+      key="Policy Instrument"
+      value="Tools"/>
+  <properties
+      key="URL"
+      value="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=13616"/>
+</archimate:Meaning>

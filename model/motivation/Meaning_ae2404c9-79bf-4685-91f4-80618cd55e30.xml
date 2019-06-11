@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Directive"
+    id="ae2404c9-79bf-4685-91f4-80618cd55e30"
+    documentation="Formal instruction that obliges departments to take (or avoid) specific action. Directives explain how deputy heads' officials must meet the policy objective.">
+  <properties
+      key="Application"
+      value="Mandatory"/>
+  <properties
+      key="Audience"
+      value="Managers, Functional Specialists"/>
+  <properties
+      key="Policy Instrument"
+      value="Directive"/>
+  <properties
+      key="URL"
+      value="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=13616"/>
+</archimate:Meaning>

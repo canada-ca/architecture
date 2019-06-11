@@ -1,0 +1,21 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy on Management of Information Technology"
+    id="65b57ff2-29e4-4859-89eb-bdb7ea0a6973"
+    documentation="Aims to achieve the efficient and effective use of information technology, support government priorities and program delivery, increase productivity, and enhance services to the public. ">
+  <properties
+      key="Type"
+      value="Policy"/>
+  <properties
+      key="Effective Date"
+      value="2007-07-01"/>
+  <properties
+      key="Updated Date"
+      value="2018-04-01"/>
+  <properties
+      key="Modified Date"
+      value="2018-03-29"/>
+  <properties
+      key="URL"
+      value="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755"/>
+</archimate:Driver>

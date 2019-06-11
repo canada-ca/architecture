@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Government of Canada Website"
+    id="92d38791-d299-42c5-b257-c8f7d6319654">
+  <properties
+      key="Type"
+      value="Website"/>
+  <properties
+      key="URL"
+      value="https://www.canada.ca/home.html"/>
+</archimate:ApplicationComponent>
