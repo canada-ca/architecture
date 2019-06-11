@@ -1,0 +1,19 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Administration Act "
+    id="24e9a593-39c2-4e80-95b4-77861903fb3b"
+    documentation="(sections 7, 9, 10, 11)">
+  <properties
+      key="Type"/>
+  <properties
+      key="Effective Date"/>
+  <properties
+      key="Updated Date"/>
+  <properties
+      key="Modified Date"/>
+  <properties
+      key="URL"
+      value="https://laws-lois.justice.gc.ca/eng/acts/f-11/index.html"/>
+  <properties
+      key="XML"/>
+</archimate:Driver>

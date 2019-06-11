@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guideline"
+    id="5a8f6bdf-4515-40b7-9695-3e17abe7ab61"
+    documentation="A document providing guidance, advice or explanation to managers or functional area specialists.">
+  <properties
+      key="Application"
+      value="Voluntary"/>
+  <properties
+      key="Audience"
+      value="Managers, Functional Specialists"/>
+  <properties
+      key="Policy Instrument"
+      value="Guideline"/>
+  <properties
+      key="URL"
+      value="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=13616"/>
+</archimate:Meaning>

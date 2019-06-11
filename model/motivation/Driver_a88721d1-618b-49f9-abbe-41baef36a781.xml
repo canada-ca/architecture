@@ -1,0 +1,23 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Framework for Information and Technology"
+    id="a88721d1-618b-49f9-abbe-41baef36a781"
+    documentation="Provides strategic context for the Policy on Information Management and the Policy on the Management of Information Technology, and takes into consideration the Privacy and Data Protection Policy, the Access to Information Policy, and the Government Security Policy. In addition, information technology provides guiding principles to sound information and technology management practices across government. These principles also serve to support individuals and employees in exercising their rights and performing their duties. ">
+  <properties
+      key="Type"
+      value="Policy Framework"/>
+  <properties
+      key="Effective Date"
+      value="2007-07-01"/>
+  <properties
+      key="Updated Date"/>
+  <properties
+      key="Modified Date"
+      value="2009-07-09"/>
+  <properties
+      key="URL"
+      value="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12452"/>
+  <properties
+      key="XML"
+      value="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12452&amp;section=xml"/>
+</archimate:Driver>

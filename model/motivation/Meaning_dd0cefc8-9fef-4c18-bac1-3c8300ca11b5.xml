@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Framework"
+    id="dd0cefc8-9fef-4c18-bac1-3c8300ca11b5"
+    documentation="Formal statement that provides context and broad guidance with respect to policy themes or clusters. Also provides the supporting structure within which specific Treasury Board policies and other instruments can be understood in strategic terms. Explains why Treasury Board sets policy in particular area.">
+  <properties
+      key="Policy Instrument"
+      value="Policy Frameowkr"/>
+  <properties
+      key="Audience"
+      value="Ministers, Deputy Heads"/>
+  <properties
+      key="Application"
+      value="Architectural"/>
+  <properties
+      key="URL"
+      value="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=13616"/>
+</archimate:Meaning>

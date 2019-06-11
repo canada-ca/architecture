@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="canada.ca"
+    id="bde91ac9-86c0-44e3-92cf-54288474e353">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a4608782-7cab-4124-bd6f-70edc2e80998">
+    <bounds
+        x="132"
+        y="84"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_92d38791-d299-42c5-b257-c8f7d6319654.xml#92d38791-d299-42c5-b257-c8f7d6319654"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5120b01b-5a9c-4745-96f3-1a72e6b63eef">
+    <bounds
+        x="84"
+        y="192"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_1f7d13d7-9856-4ab8-b278-948773bf5351.xml#1f7d13d7-9856-4ab8-b278-948773bf5351"/>
+  </children>
+</archimate:ArchimateDiagramModel>

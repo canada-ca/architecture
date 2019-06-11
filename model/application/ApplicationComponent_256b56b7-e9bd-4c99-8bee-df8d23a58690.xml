@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QualiWare Lifecycle Management (QLM-X)"
+    id="256b56b7-e9bd-4c99-8bee-df8d23a58690">
+  <properties
+      key="version"
+      value="10 (X)"/>
+</archimate:ApplicationComponent>

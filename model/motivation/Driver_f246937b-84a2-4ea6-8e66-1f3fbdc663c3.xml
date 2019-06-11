@@ -1,0 +1,21 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Directive on Management of Information Technology"
+    id="f246937b-84a2-4ea6-8e66-1f3fbdc663c3"
+    documentation="&#xD;&#xA;&#xD;&#xA;Information technology (IT) enables the federal government to effect operations and service transformation. IT matters strategically for increasing government productivity and enhancing government services to the public for the benefit of citizens, businesses, taxpayers and employees. ">
+  <properties
+      key="Type"
+      value="Directive"/>
+  <properties
+      key="Effective Date"
+      value="2009-04-01"/>
+  <properties
+      key="Updated Date"
+      value="2018-12-04"/>
+  <properties
+      key="Modified Date"
+      value="2018-12-03"/>
+  <properties
+      key="URL"
+      value="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249"/>
+</archimate:Driver>

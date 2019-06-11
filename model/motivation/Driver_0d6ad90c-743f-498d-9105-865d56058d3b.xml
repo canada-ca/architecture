@@ -1,0 +1,19 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Foundation Framework for Treasury Board Policies"
+    id="0d6ad90c-743f-498d-9105-865d56058d3b"
+    documentation="Explains the structure of Treasury Board policy instruments and outlines general requirements common to all Treasury Board policy instruments. ">
+  <properties
+      key="Type"
+      value="Framework"/>
+  <properties
+      key="Effective Date"
+      value="2008-06-24"/>
+  <properties
+      key="Modified Date"
+      value="2008-06-24"/>
+  <properties
+      key="URL"
+      value="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=13616"/>
+  <properties/>
+</archimate:Driver>
