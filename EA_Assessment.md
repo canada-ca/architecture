@@ -67,6 +67,7 @@ My goal:
 
 
 ## Application
+Has your organizations Application Management group been consulted ?
 **Use Open Standards and Solutions by Default**
 
  - Were open source software, solutions and standards evaluated for
@@ -79,10 +80,55 @@ My goal:
  - Does this *thing* expose public facing data ?
  
  **Maximize Reuse**
- Does the *thing* reuse existing services ?
+ 
+ - Does the *thing* reuse existing services ?
+ - Was this *thing* designed with the enterprise in mind ?
+ - Does the *thing* align to:
+	 - relevant standards
+	 - best practices ?
+ - Is the coding be share with :
+	 - The public ?
+	 - The government of Canada ?
+  
+**Enable Interoperability**
+ - Has all functionality been exposes as consumable services ?
+ - Does the thing align with Microservices methodology ?
+ - Does the thing have an API interfacce
+	 - Has it been enabled ?
+	 - Has it been registered with the GC API Store ?
+- Does the thing use containers ?
 
 ## Technology
+Has your organizations Technology and Data-center Management group been consulted ?
+**Use Cloud first**
 
-## Security
+ - Were cloud solutions evaluated by priority ?
+ 
+	 1. SaaS
+	 2. PaaS
+	 3. IaaS
 
-## Privacy
+- Were data center preferences evaluated by priority ?
+	 1. Public Cloud
+	 2. Hybrid Cloud
+	 3. Private Cloud
+	 4. Non-Cloud 
+
+- Is the *thing* resistant to vendor lockin ?
+ 
+**Design for Performance, Availability, and Scalability**
+
+- Is the *thing* designed for resiliency ?
+- Is the *thing* being monitored for service and availability ?
+- Are the *things* response times being monitored for user acceptance ?
+- Was the *thing* designed with a distributed architecture ?
+
+## Security & Privacy
+
+ - Has your organizations Security Management group been consulted ?
+ - Has security been implemented security across all architectural domains ?
+ - Has the *things* data and information been properly categorized to determine safeguards ?
+ - Has a PIA been completed ?
+ - Has a balance of securtity and user needs been established ? 
+
+   
