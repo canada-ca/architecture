@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "link-check": "node link-check.js",
+    "lint": "markdownlint -i node_modules \"**/*.md\"",
+    "test": "npm run lint && npm run link-check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/canada-ca/architecture"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "cspell": "^3.2.8",
+    "glob": "^7.1.2",
+    "markdown-link-check": "^3.7.2",
+    "markdownlint-cli": "^0.16.0"
+  }
+}
