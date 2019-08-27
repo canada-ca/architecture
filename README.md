@@ -9,6 +9,7 @@ This repository is governed using an informal, community driven governance model
 ## What you will find here
 
 This repository will contain elements created from open and accessible information and data sources such as:
+
 * Legislation
 * Acts
 * Regulations
@@ -16,12 +17,13 @@ This repository will contain elements created from open and accessible informati
 * Directives
 
 ## What you wont find here
+
 This repository is not mean to expose non-public or protected information sources such as:
+
 * Internal business transformation
 * Internal departmental policies
 * personal or self-identifiable information
 * any information presenting exposing security threats or internal network topologies
-
 
 ## About Enterprise Architecture within Government of Canada
 
@@ -34,32 +36,37 @@ The [Government of Canada Strategic Plan for Information Management and Informat
 ## Getting Started
 
 ### Background infomration and conttext
+
 * Familiarize yourself with [TOGAF 9.12](https://pubs.opengroup.org/architecture/togaf91-doc/arch/index.html)
 * Familiarize yourself with [Archimate 3.0.1](http://pubs.opengroup.org/architecture/archimate3-doc/)
 * Familiarize yourself with [Gitflow](https://nvie.com/posts/a-successful-git-branching-model/)
 * Government of Canada Policies related to architecture
 
 ### Install Archi Modeling Tool
+
 * Install [Archi Tool](https://www.archimatetool.com/)
 * Install [Archi Tool Collaboration Plugin](https://www.archimatetool.com/plugins/)
 
 ### Fork The Repository
+
 * If you are new to the project please experiment with modeling and workflows by forking your project.
 * Create a GitHub account
 * Fork the repository to your own workspace
 
 ### Load Model Into Archi
+
 * Once you have forked the project you can load the model into Archi
 * Start Archi
 * Go to Collaboration menu
 * Collaboration > Import Remote Model to Workspace
-    * URL: Use "clone" URL
-    * User Name: e-mail used to register at GCCode
-    * Passowrd: Passowrd used to log in to GCCode
+  * URL: Use "clone" URL
+  * User Name: e-mail used to register at GCCode
+  * Passowrd: Passowrd used to log in to GCCode
 
 ### Git Flow Workflow
+
 * Refresh Model (aka Git-Pull)
-  * this step will pull in any updates to the model from the repository 
+  * this step will pull in any updates to the model from the repository
 * Commit Changes (aka Git-Commit)
   * after making any changes to the model committing will ad them to your local copy of the git repo on your local machine
   * please provide meaningful comments for each commit
@@ -69,8 +76,8 @@ The [Government of Canada Strategic Plan for Information Management and Informat
 * Publish Changes (aka Git-Push)
   * Pushing your committed changes shares your contribution back to the community or at least your forked project.
 
-
 ### Contribute upstream
+
 * once you have made changes to your forked project, please consider submitting changes up stream
 * if you have created various branches in your forked project, it is likely best to migrate all changes to you forked "Master"
 * Submit a [Pull Request](https://help.github.com/en/articles/about-pull-requests)
@@ -78,8 +85,8 @@ The [Government of Canada Strategic Plan for Information Management and Informat
   * base repository: This is the parent canada-ca/architecture repository
   * Head repository: This is likely your forked repo
 * Consider pulling FROM your repositories MASTER branch into the base repository DEVELOPMENT or other branch
-  
-   
+
 ## Alternative workflow
+
 * Clone this project into your own repository
 * Submit Merge requests back to this project
