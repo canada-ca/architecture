@@ -1,6 +1,6 @@
 # Open Government of Canada Architecture Git Repository
 
-The canada-ca/architecture repository is meant for the storage of architecture models for use within and about the Government of Canada. The contents of this repository are provided without any warranty or guarentee, and does not necisarily accurately reflect the Government of Canada's current state of Enterprise Architecture management at any given moment.
+The canada-ca/architecture repository is meant for the storage of architecture models for use within and about the Government of Canada. The contents of this repository are provided without any warranty or guarantee, and does not necessarily accurately reflect the Government of Canada's current state of Enterprise Architecture management at any given moment.
 
 In line with [Open Government](https://open.canada.ca) principles, this repository supports open government. "Open Government is about making government more accessible to everyone. This means giving greater access to government data and information to the Canadian public and the businesses community.[About Open Government](https://open.canada.ca/en/about-open-government).
 
@@ -16,7 +16,7 @@ This repository will contain elements created from open and accessible informati
 * Policies
 * Directives
 
-## What you wont find here
+## What you won’t find here
 
 This repository is not mean to expose non-public or protected information sources such as:
 
@@ -35,7 +35,7 @@ The [Government of Canada Strategic Plan for Information Management and Informat
 
 ## Getting Started
 
-### Background infomration and conttext
+### Background information and context
 
 * Familiarize yourself with [TOGAF 9.12](https://pubs.opengroup.org/architecture/togaf91-doc/arch/index.html)
 * Familiarize yourself with [Archimate 3.0.1](http://pubs.opengroup.org/architecture/archimate3-doc/)
@@ -61,7 +61,7 @@ The [Government of Canada Strategic Plan for Information Management and Informat
 * Collaboration > Import Remote Model to Workspace
   * URL: Use "clone" URL
   * User Name: e-mail used to register at GCCode
-  * Passowrd: Passowrd used to log in to GCCode
+  * Password: Password used to log in to GCCode
 
 ### Git Flow Workflow
 
@@ -70,9 +70,9 @@ The [Government of Canada Strategic Plan for Information Management and Informat
 * Commit Changes (aka Git-Commit)
   * after making any changes to the model committing will ad them to your local copy of the git repo on your local machine
   * please provide meaningful comments for each commit
-  * Keep commits to a managable size
+  * Keep commits to a manageable size
   * Each commit should related to changes that are logical (eg updating a single view, or adding related objects, or adding a new set of relationships)
-  * Commiting changes does not share them back to the community, only locally on your machine
+  * Committing changes does not share them back to the community, only locally on your machine
 * Publish Changes (aka Git-Push)
   * Pushing your committed changes shares your contribution back to the community or at least your forked project.
 
